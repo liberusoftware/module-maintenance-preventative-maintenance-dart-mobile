@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-preventative-maintenance-dart-mobile",
+  "capabilityKey": "liberusoftware/module-maintenance-preventative-maintenance",
+  "presentation": "dart-mobile",
+  "package": "module_maintenance_preventative_maintenance_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/maintenance/nextjs/preventative-maintenance.md",
+  "presentationPlan": "projects/maintenance/features/preventative-maintenance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
